@@ -30,8 +30,10 @@ export default function HomePage() {
             <p className="mb-4 w-fit rounded-full bg-white px-4 py-2 text-sm font-bold text-blueDeep shadow-soft">
               初心者向け・入力データ保存なし
             </p>
-            <h1 className="text-3xl font-bold leading-tight text-slate-950 sm:text-5xl">
-              副業の税金、申告が必要かざっくり診断
+            <h1 className="max-w-4xl text-3xl font-bold leading-tight text-slate-950 sm:text-5xl">
+              <span className="inline-block">副業の税金、</span>
+              <span className="inline-block">申告が必要か</span>
+              <span className="inline-block whitespace-nowrap">ざっくり診断</span>
             </h1>
             <p className="mt-5 max-w-2xl text-base leading-8 text-slate-700 sm:text-lg">
               副業収入・経費・働き方を入力するだけで、確定申告や住民税の注意点を簡単に確認できます。
