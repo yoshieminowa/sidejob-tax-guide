@@ -91,12 +91,6 @@ export default async function ServiceDetailPage({ params }: ServiceDetailPagePro
         </div>
       </section>
 
-      <p className="mt-6 rounded-lg bg-amber-50 p-4 text-sm leading-7 text-amber-800">
-        現在はアフィリエイトリンクを設置していません。後から公式サイトや広告リンクを追加する場合は、サービスデータの
-        <code className="mx-1 rounded bg-white px-1 py-0.5">affiliateHref</code>
-        を差し替える想定です。
-      </p>
-
       <section className="mt-12 card">
         <h2 className="text-2xl font-bold text-slate-950">サービス概要</h2>
         <p className="mt-4 text-sm leading-8 text-slate-700">{service.overview}</p>
