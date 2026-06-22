@@ -9,7 +9,7 @@ category: AI副業
 categorySlug: ai-side-job
 featured: true
 popular: true
-relatedArticles: chatgpt-side-job-tax,image-sales-tax,expense-guide,side-job-tax-200000
+relatedArticles: chatgpt-tax,image-sales-tax,expense-guide,side-job-tax-200000
 ---
 ChatGPTや画像生成ツールを使った副業収入について、収入の記録や経費候補、申告が必要になる可能性を整理します。
 
@@ -29,7 +29,7 @@ ChatGPTや画像生成ツールを使った副業収入について、収入の�
 | 所得20万円超 | 会社員でも確定申告が必要になるケースがあります |
 | 所得20万円以下 | 住民税の申告が必要になる場合があります |
 
-[ChatGPT副業の記事](/articles/chatgpt-side-job-tax)もあわせて確認できます。
+[ChatGPT副業の記事](/articles/chatgpt-tax)もあわせて確認できます。
 
 ## 経費として考えられるもの
 - AIツールの利用料

@@ -9,7 +9,7 @@ category: AI副業
 categorySlug: ai-side-job
 featured: false
 popular: false
-relatedArticles: ai-side-job-tax,canva-sales-tax,side-job-tax-200000,expense-guide
+relatedArticles: ai-side-job-tax,canva-tax,side-job-tax-200000,expense-guide
 ---
 画像販売では、素材販売サイトの報酬や画像生成ツールの利用料などを記録しておくことが大切です。
 
